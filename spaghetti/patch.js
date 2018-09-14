@@ -8,5 +8,5 @@
 		"http://thcrap.nmlgc.net/repos/wobuffet3/spaghetti/",
 		"http://mirrors.thpatch.net/wobuffet3/spaghetti/"
 	],
-	"title": "Turns everything in HSiFS and VD into spaghetti."
+	"title": "Turns everything in 16 and 16.5 into spaghetti."
 }
