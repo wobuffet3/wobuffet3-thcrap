@@ -2,7 +2,7 @@
 	"contact": "wobuffet3@gmail.com",
 	"id": "wobuffet3",
 	"patches": {
-		"spaghetti": "Turns everything in HSiFS into spaghetti."
+		"spaghetti": "Turns everything in 16 and 16.5 into spaghetti."
 	},
 	"servers": [
 		"http://thcrap.nmlgc.net/repos/wobuffet3/",
