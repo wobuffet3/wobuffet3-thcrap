@@ -1,10 +1,6 @@
 {
 	"contact": "wobuffet3@gmail.com",
 	"id": "wobuffet3",
-	"patches": {
-		"spaghetti": "Turns everything in 16 and 16.5 into spaghetti."
-		"sumija": "Replaces Cirno and Aya with Sumireko and Seija."
-	},
 	"servers": [
 		"http://thcrap.nmlgc.net/repos/wobuffet3/",
 		"http://mirrors.thpatch.net/wobuffet3/"
