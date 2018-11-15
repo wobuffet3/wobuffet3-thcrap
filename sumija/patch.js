@@ -8,5 +8,5 @@
 		"http://thcrap.nmlgc.net/repos/wobuffet3/sumija/",
 		"http://mirrors.thpatch.net/wobuffet3/sumija/"
 	],
-	"title": "This patch is outdated and only here for legacy reasons. Please download altplayers instead."
+	"title": "This patch is outdated and only here for legacy purposes. Please download altplayers instead."
 }
