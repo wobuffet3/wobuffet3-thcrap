@@ -8,5 +8,5 @@
 		"http://thcrap.nmlgc.net/repos/wobuffet3/altplayers/",
 		"http://mirrors.thpatch.net/wobuffet3/altplayers/"
 	],
-	"title": "Replaces players in Th16 with Sumireko, Seija, and Yabusame."
+	"title": "Replaces players in Th16 with Sumireko, Seija, Yabusame, and Tsubakura."
 }
