@@ -4,5 +4,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/wobuffet3/"
 	],
-	"title": "Wobuffet3's batches"
+	"title": "Wobuffet3's patches"
 }
