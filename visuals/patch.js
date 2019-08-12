@@ -7,5 +7,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/wobuffet3/visuals"
 	],
-	"title": "Makes buffed shots in Th17 and season items in Th16 less distracting."
+	"title": "Makes buffed shots in Th17 and season items in Th16 less distracting. Included with spaghetti."
 }
