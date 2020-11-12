@@ -1,2 +1,0 @@
-eyes -180 hue
-body hue 27, sat 25
