@@ -1,0 +1,166 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "There are so many of you, I can't keep track."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "What are you made out of?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Rock? Flesh? It's hard to tell."
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "You're pretty frightening, for a child."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "The colors on your outfit are pretty bright.",
+                "That can be dangerous if you're in the wrong place."
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "I can't imagine it's easy to live with that huge thing."
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "What is this? A clone?"
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Dragons are divine creatures.",
+				"Please don't treat them like casual pleasures."
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Please be careful not to poison the water again."
+            ]
+        }
+    },
+    "140": {
+        "50_0": {
+            "lines": [
+                "Are you alright?",
+				"It seemed like you were aiming away from me."
+            ]
+        }
+    },
+    "150": {
+        "50_0": {
+            "lines": [
+                "You're really cute when your mouth is closed."
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Doesn't plain bread get boring after awhile?",
+				"Why not garnish it?"
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "How do you manage to look so soft without any fur?",
+				"I'm honestly jealous."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Do you think you could teach me some close combat sometime?"
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Let's go to the beach together sometime.",
+				"I've never been there."
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Oh, I know some rabbits.",
+				"Maybe you'd get along."
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Your wisdom is touching, but so are your hands.",
+				"Keep off."
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "Danmaku is a lot more fun than firearms."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Please, let me teach you some moves!"
+            ]
+        }
+    },
+    "130": {
+        "50_0": {
+            "lines": [
+                "I hope you don't mind me asking, but..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "What species are you, exactly?",
+				"You don't seem like any I'm familiar with."
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Still?"
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "I'm glad to have met so many interesting people."
+            ]
+        }
+    }
+}
