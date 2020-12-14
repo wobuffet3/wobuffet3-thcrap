@@ -1,0 +1,142 @@
+{
+    "0": {
+        "50_0": {
+            "lines": [
+                "Ah, my intestines..."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "There!",
+                "My innards are safe!"
+            ]
+        }
+    },
+    "10": {
+        "50_0": {
+            "lines": [
+                "You are not immune to bread."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Uuu...",
+                "Please don't hurt me."
+            ]
+        }
+    },
+    "20": {
+        "50_0": {
+            "lines": [
+                "You're a nice wolf...",
+				"Thank you for not eating me."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Wanna share some bread?"
+            ]
+        }
+    },
+    "30": {
+        "50_0": {
+            "lines": [
+                "Awawawa! What is that thing?!"
+            ]
+        }
+    },
+    "40": {
+        "50_0": {
+            "lines": [
+                "You run a store, right?",
+                "Do you \"Carrie\" any bread?"
+            ]
+        }
+    },
+    "50": {
+        "50_0": {
+            "lines": [
+                "Go shove that \"cringe\" up your ass."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Get away from me!"
+            ]
+        }
+    },
+    "60": {
+        "50_0": {
+            "lines": [
+                "Make me some bread with your magic!",
+				"You can do that, right?"
+            ]
+        }
+    },
+    "70": {
+        "50_0": {
+            "lines": [
+                "Uh... give me that bread."
+            ]
+        }
+    },
+    "80": {
+        "50_0": {
+            "lines": [
+                "Yayayaya!",
+                "I love you, Sis!"
+            ]
+        }
+    },
+    "100": {
+        "50_0": {
+            "lines": [
+                "Wow!",
+                "I wish I had a tail like yours!"
+            ]
+        }
+    },
+    "90": {
+        "50_0": {
+            "lines": [
+                "Awawawa! I've never fought a human before!"
+            ]
+        }
+    },
+    "110": {
+        "50_0": {
+            "lines": [
+                "Awawa! Your tail is so fluffy! I love it!"
+            ]
+        }
+    },
+    "120": {
+        "50_0": {
+            "lines": [
+                "You're huge! Oh my goodness!"
+            ]
+        }
+    },
+    "210": {
+        "50_0": {
+            "lines": [
+                "Uuu, I'm hungry..."
+            ]
+        }
+    },
+    "211": {
+        "50_0": {
+            "lines": [
+                "Still?"
+            ]
+        }
+    }
+}
