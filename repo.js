@@ -1,5 +1,5 @@
 {
-	"contact": "wobuffet3@gmail.com",
+	"contact": "twitter.com/wobuffet3",
 	"id": "wobuffet3",
 	"servers": [
 		"https://mirrors.thpatch.net/wobuffet3/"
