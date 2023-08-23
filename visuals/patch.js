@@ -7,5 +7,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/wobuffet3/visuals"
 	],
-	"title": "(TH16, 17, 18, 18.5) Makes various shots and items less distracting."
+	"title": "(TH16, 17, 18, 18.5, 19) Makes various shots and items less distracting."
 }
