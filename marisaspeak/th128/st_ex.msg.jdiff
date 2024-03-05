@@ -1,0 +1,308 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "According to my tengu source..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "There's a human around here with some spare time",
+                "since they're done flower-viewing."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "But it'll be a piece of cake whoever it is!",
+                "Can't be stronger than the strongest!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "What's up?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Boy, you sound proper riled up, huh?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Piece of cake, piece of cake, Tower of Pisa cake!",
+                "Okay, it's go time!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Did you eat something weird or what?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Yes I did!"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "I've got no enemies left",
+                "in the realm of fairies!"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "My next opponent will be a youkai!",
+                "I'll beat a youkai and be the strongest!"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Is that why you tailed me?",
+                "But I'm a human, you know..."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "C'mon! I challenge you!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Oh well, I was getting pretty bored anyway."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Suppose it's fine to play around a bit."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "That attitude won't last long.",
+                "I've got the power to freeze <i$bullets>!"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "You don't say!",
+                "Very interesting."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "I can't freeze lasers, though..."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "Hm, well, don't you think it'll be difficult",
+                "facing someone with lasers like me?"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "I'll try anyway!"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Eh, whatever.",
+                "I'll go easy on ya."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "I'll just use my lasers",
+                "that <b$won't kill you if you touch them>."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "They'll just chip away at your motivation."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Hmph, my ice will protect me!",
+                "Come on, gimme all you got!"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "How entertaining could",
+                "a fairy as my opponent possibly be?"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "If we're gonna find out,",
+                "it's your responsibility to be my subject!"
+            ]
+        }
+    },
+    "2": {
+        "30_0": {
+            "lines": [
+                "Not bad!",
+                "Where'd you get that kind of power...?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I'm still feeling fine!",
+                "No problem at all! I beat you <i$so> fast!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Eh, whatever, sorry for putting you down, I guess.",
+                "Now we're gonna play with some <i$real> danmaku!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "What the... You're that strong?",
+                "This is kind of nuts."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Oof... g-gimme a break soon, pleeease?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Hmph, this'll be the last one.",
+                "You'll get shattered before anybody even knows it!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How's <i$that>?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "P-Pretty good, really..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, I really did go easy on you, y'know.",
+                "With the non-deadly lasers."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Owowow... I think this is enough for you today!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hey, that's my line..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "(Regardless, even fairies",
+                "aren't to be scoffed at...)"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "(It seems so weird to be calling stupid fairies",
+                "not stupid...)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "(Even if I had pulled out my most powerful lasers,",
+                "she could've been trouble...)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "What's the matter?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Nothing.",
+                "Just a little worn out."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Back on topic,",
+                "why did you attack me?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Uhhh... because",
+                "the mumble mumble was so-and-so."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "That's not how you use",
+                "\"mumble mumble so-and-so.\""
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "(Mumble mumble, so-and-so...)"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "A fairy war?",
+                "And since you're feeling confident, you're taking on youkai??"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "That's right!"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "But I'm a human."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "But anyway, I'm out of power.",
+                "I'm heading home and going to sleep!"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I am triumphant!",
+                "Strongest fairy, comin' through!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "A war among the fairies, huh...?",
+                "So something fun was going on behind the flower-viewing?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "I wonder if I could hear more about it",
+                "from the seat of a flower-viewer..."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Owww, I'm pretty beat up.",
+                "I'd better get home and sleep, too."
+            ]
+        }
+    }
+}
