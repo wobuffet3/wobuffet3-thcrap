@@ -1,0 +1,216 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Tsukasa  $Marisa  >The Forest of Magic."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A tough place for humans to live in, but perfect for beings of magic to dwell."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Within this forest is a messy house that belonged to Marisa."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Tsukasa  >\"...huh?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> You went to Miss Chimata after discarding all your cards?\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"It was an accident! I picked that card by mistake!\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Tsukasa  >\"The marketplace god wanted to gain faith"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> through monetary exchange..."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> You essentially denied that even without thinking about it.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Tsukasa  >\"And now Miss Chimata is bedridden...\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Marisa  >\"What? Bedridden!?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Tsukasa  >\"Yep, she seems to be having nightmares",
+                "<l$> of a robber who can't even engage in basic commerce.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Marisa  >\"A robber is a bit of an overstatement I think."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> Oh yeah, you're that great tengu's servant right?",
+                "<l$> What business do you have with me?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Marisa  >\"How fishy...\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Tsukasa  >\"Although it was just how things happened to end up, Master Iizunamaru is still",
+                "<l$> worried about sending you to the berserk god, Miss Chimata that is..."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$> Think of it as aftercare!\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Tsukasa  >\"Even if you are indeed a brilliant card user",
+                "<l$> that enjoyed card games..."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$> Oh, to think Miss Chimata would attack you so relentlessly!\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Marisa  >\"Card games...?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Tsukasa  >\"But I'm so glad you seem to be unharmed.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Marisa  >\"Actually, aren't you that great tengu's pet?"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> Why'd you go tattle on your boss to the marketplace god?\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Tsukasa  >\"...\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Marisa  >\"You can't be too suspicious with folks whose intentions you can't guess."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> What IS your goal, anyways?\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Tsukasa  >\"I don't know if you'd believe me..."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<l$> But it was all for the sake of profits."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$> I always act with the best of Master Iizunamru's financial benefit in mind."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<l$> And that includes coming to check up on you, Miss Marisa!\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Marisa  >\"..."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<l$> Welp, that's good enough for me."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<l$> Thanks for caring.\""
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<r$Tsukasa  >\"Heheheh, you're welcome.\""
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "Marisa had determined that the ability cards were not dangerous."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Their abilities are limited and there's a condition to using them too,",
+                "so it's unlikely that they'd pose any threat to Gensokyo even if they continued distribution."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Actually, considering that people just started to sell them on their own,",
+                "the goal might have been to make it so that it can't be stopped in the first place."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "If that's the case, then there's no other choice then to join in the fun."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<c$Ending No. 03 — The Tube Fox Wins Marisa Over$>"
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$No Continue Clear!$>"
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "　"
+            ]
+        }
+    }
+}
