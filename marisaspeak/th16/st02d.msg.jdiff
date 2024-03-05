@@ -1,0 +1,140 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "This here's supposed to be my territory."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Huh, haven't seen you before."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Who are you?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "That oughta be my line."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I've always been livin' here.",
+                "Never moved an inch!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "And all of a sudden, you came flyin' up."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Oh, sorry about that.",
+                "I'm Marisa the magician."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "I'm not sure why, but it seems like the season around",
+                "this one area has turned into <i$fall?>"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "I don't know nothin' 'bout that.",
+                "More importantly, you should git outta here."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "If you stick around here any longer,",
+                "I'll slice you open an' sun-dry you!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Whew, you're strong.",
+                "Y'said you were a magician?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Yes. Although a human one,",
+                "admittedly."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Oho. A human, eh?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "As humans go, you remind me a' that",
+                "legendary Kintoki kid."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I like you!",
+                "I'll hear any questions y'got."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Really? Okay, then."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Do you know anything about the one who made",
+                "it into fall just around this one area?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "\"Just this one area?\"",
+                "The heck y'mean by that?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Are you aware that there's abnormal weather",
+                "occurring in various places in Gensokyo?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Nah."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Could you please tell me any other places",
+                "where there's been strange weather."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I ain't never left here,",
+                "so I dunno nothin'."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "...Sorry to have bothered you."
+            ]
+        }
+    }
+}
