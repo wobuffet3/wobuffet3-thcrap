@@ -1,0 +1,119 @@
+{
+    "0": {
+        "68_0": {
+            "lines": [
+                "Please wait just a minute~"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "I can't wait.",
+                "That ship is calling out to me."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Oh, my, so you're just going to hurry right on?",
+                "Well, I guess I'll leave you now, then."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "...Wait."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "You're just gonna leave? That's pretty suspicious."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Well, I won't leave, then.",
+                "I've got lots of time."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "What's with you?",
+                "Are you a patrol from that ship?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Ship?",
+                "That's got nothing to do with me."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "I'm just a cheerful youkai who lives to surprise people."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "So, be surprised–"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Yeah, right."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "*sniff*"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "If you're not related to that ship, please don't get in my way.",
+                "I'm really busy right now."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Hmm, will you be surprised",
+                "if I do this?"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Booooo!",
+                "Did that surprise you?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Not at all. All the other youkai in town are like you.",
+                "Not a single one is interesting at all."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "*sniff*",
+                "My reason to live as a youkai..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I might be surprised if you could protect me from the rain",
+                "with that umbrella you've got there."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oh, so you're saying to go back to square one!",
+                "Maybe that's not a bad idea..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Well, I caught up to the ship I was chasing,",
+                "so, see you."
+            ]
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Humans, fairies, and all, everyone seems to be ",
+                "after this ship... are they after the treasure room?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "A treasury?",
+                "I like the sound of that."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, no point in arguing!",
+                "I'll show no mercy to any enemy!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Oh! To think that there are still humans that",
+                "wouldn't run away after seeing this fist..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "So I guess this is a story where I'll get the treasure",
+                "if I finish you off..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "...She ran away."
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Just what are you after?",
+                "Treasure? Or perhaps our sister's power?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Your sister, you say?"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "...",
+                "But more importantly, the treasure. Yeah."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "I knew it; you're just a common thief!"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "I'm Ichirin, and I'm taking our sister's place guarding the treasure."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I won't let any thieves in alive!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Ah ha ha! A thief?",
+                "Just who do you think I am!?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I'm no simple thief!",
+                "I'm a normal magician!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "So?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Well, I, uh...",
+                "So, please, don't worry about me, okay?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "...Eh?",
+                "You mean, that girl in black has...?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "What? What's wrong?",
+                "Why are you talking to yourself?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Unzan tells me",
+                "you're gathering the fragments of the floating treasure."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Fragments of the <i$secret> treasure...?",
+                "Well, I picked up some weird thing that was driving the fairies crazy..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I see asking the mice to search wasn't any use..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Thank you for finding them!",
+                "Now I can finally revive our sister!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How awesome.",
+                "I can't believe there're humans like that in this world, too..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I wouldn't lose to a youkai like you!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "If you're collecting the floating treasure, then",
+                "you're trying to revive our sister too, right?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "What's this secret treasure you're talking about?",
+                "You mean these flying things the fairies were dropping?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Very well, very well.",
+                "You seem to be an ally, so..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "...What?",
+                "Are these flying things actually worth something...?"
+            ]
+        }
+    }
+}

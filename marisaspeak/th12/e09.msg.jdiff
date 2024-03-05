@@ -1,0 +1,202 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >Marisa's house."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A gloomy, musty place stacked high with various items."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Many items of unknown origin and purpose lay sleeping here,",
+                "including many useless things even Marisa wouldn't touch."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"What the heck?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> It was flying earlier, but now it won't move at all.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"What'd they call it... the Flying Storehouse?"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> A part of a storehouse that flew through the sky..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> I wonder if I can make it fly again somehow?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Marisa  >\"Mm?"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> The top of the UFO is opening?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> Is there something inside?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Marisa  >\"Huh? Is this a little snake toy...?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> What's this doing in there?"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> Hm, doesn't look alive...\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >\"What a creepy piece of treasure."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$> Whatever, it looks kind of valuable."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> Hopefully Reimu will exorcise it if it's cursed.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "Marisa took the snake toy out of the UFO and stared in shock."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "The flying, UFO-shaped treasure had turned into a simple piece",
+                "of wood in the blink of an eye."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "Marisa looked speechlessly at the magical object before her.",
+                "She was quite impressed."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "This was certainly some very powerful item."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Putting the snake back inside restored its UFO-like appearance."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Marisa was absolutely sure that this was some sort of treasure."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "However, one doubt remained with her."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "She didn't know whether the wood or the snake was the treasure."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Marisa's intuition told her it was the wood fragment."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Those youkai had called it part of the Flying Storehouse, after all."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "The wood fragment seemed more like a piece of a storehouse."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "She tried various ways to make the wood fragment change its shape,",
+                "but in the end it only reacted to the snake."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "As soon as she gave up trying to make it change, she noticed",
+                "something extremely surprising and disturbing."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "\"Th-that little toy is moving!\""
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "The snake moved suddenly as if it had come back to life, and then",
+                "headed to the window as if to escape!"
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "Dumbfounded, Marisa noted that the treasure looked like a snake",
+                "again as she chased after it."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "The snake was rather quick and made it to the window in the blink of an eye."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "Then it suddenly changed shape into a bird and disappeared into",
+                "the night sky. Marisa watched it, dumbstruck."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "\"I-I'll have to thoroughly investigate this, whatever it is!\""
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<c$Ending No.04 — Continued in the Extra Stage.$>"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}
