@@ -1,0 +1,137 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Seija  >The Forest of Magic, where miasma fills the air."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Here, Marisa's house could be found."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"Ohoho... Turn the world on its head, huh...\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "3_1": {
+            "lines": [
+                "The mini-hakkero emitted a black light."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "4_1": {
+            "lines": [
+                "<r$Marisa  >\"Doesn't sound so bad...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"The era of humans living in fear of youkai is done."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> From now on, humans are gonna rule."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> I'll fear nothing when I have this mini-hakkero!\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Seija  >\"Now, human, use it to your heart's content!\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"Don't need to tell me twice!"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> Though the consumption's not so good...\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Seija  >\"Never fear."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Your mini-hakkero has the treasure's protection.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Seija  >\"It can always receive phantasmal power!\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >\"Hmm. Well, I'll give it a shot, then.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Seija  >\"Heh heh... I've made a powerful ally."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> Turning the world upside-down is just a matter of time!\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "The mini-hakkero became a tsukumogami by the magic of the Miracle Mallet."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "Its power amplifies ferocity, and Marisa's prolonged contact with it",
+                "resulted in a loss of her better judgment."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "Seija continued to seek cooperation from tsukumogami,",
+                "humans like Marisa, and youkai."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "But the power of the mallet was not infinite."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Seija did not yet know that when its magic runs out,",
+                "she would face a recoil."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<c$Ending No. 03 — Who does rebellious Marisa rebel against?$>"
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<c$All clear! Congratulations! You're cool!$>"
+            ]
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  $Reimu  $Marisa  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A shrine on the east edge of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"...And that's all.\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"Tools getting power, and conspiring social upheaval...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >\"H-Huh. So that's what happened.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Sakuya  >\"Oh? Did something come to mind?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"N-Nothing at all!\""
+            ]
+        },
+        "6_1": {
+            "lines": [
+                "<r$Marisa  >\"N-Nothing at all!\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Sakuya  >\"You should perhaps be cautious not to get caught up in matters."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> Since the foe did wield the Miracle Mallet.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"Miracle Mallet...\""
+            ]
+        },
+        "9_1": {
+            "lines": [
+                "<r$Marisa  >\"Did you say Miracle Mallet?\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Sakuya  >\"I only caught a glimpse, but I could tell",
+                "<l$> it was an ominous magic item.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Marisa  >\"The Miracle Mallet is one of the tools of the oni."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Who knows what would happen if you used it.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Sakuya  >\"All the more reason to exercise caution.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"Hold on, why are you telling that to us?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Sakuya  >\"Because..."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> I don't want you going to the side of the resistance."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$> Nor being affected by the tool's magic power.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reimu  >\"T-That would never happen.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Marisa  >\"U-Uh, yeah.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "When Sakuya heard of a resistance,",
+                "Reimu and Marisa were the first things on her mind."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Were they to betray her, her own standing would be in danger."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "So she went to keep an eye on them."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Gensokyo's order is guaranteed by a rule of the strong."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Weaklings are oppressed. But humans are not included in this."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Depending on where humans stand, who can say what will happen..."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<c$Ending No. 06 — But the magic of the Miracle Mallet will run out first.$>"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<c$All clear! Congratulations! You're cool!$>"
+            ]
+        }
+    }
+}

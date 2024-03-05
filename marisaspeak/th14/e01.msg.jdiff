@@ -1,0 +1,200 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  $Marisa  $Shinmyoumaru  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A shrine on the east edge of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"Looks like my purification rod's finally calming down.\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"Actually, my mini-hakkero was goin' nuts too."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Didn't know you were having the same kind of problem."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> And who knew it was the power of the Miracle Mallet...\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"Apparently the plan was only to make herself strong",
+                "<l$> and upset the social order."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> The consequence of which was giving off magical power",
+                "<l$> which made creatures vicious.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Marisa  >\"So the Mallet's effect caused peaceful youkai to rampage",
+                "<l$> and tools to move on their own... Well, no wonder.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"No wonder what?\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Marisa  >\"When I held my mini-hakkero, I felt kind of gloomy."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> I felt like torching stuff, didn't matter what."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> That must have been an effect of the magic.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Reimu  >\"Hmm, well, I didn't have any thoughts like that with my rod.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >\"Really? Well... huh.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >\"So, what happened to those youkai?"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> What was it, an Inchling and an Amanojaku?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Reimu  >\"Well, about that."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$> I don't know where the Amanojaku went, but...\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Whoaaa, it's shaking! Is it an earthquake?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Reimu  >\"Did I wake you?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Marisa  >\"Eh?! You're telling me <i$she's> the one behind the incident?\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Reimu  >\"She used too much of the mallet's power,",
+                "<l$> so she won't be able to get big for a while.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Yeah, that's right."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> The blowback was worse than I thought...\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Marisa  >\"Oh, huh..."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$> Still, kind of cruel treating her like a bug, you think?\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Reimu  >\"Not at all."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$> She has a cage to protect her from other bugs and animals.\""
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Thaaanks! You're so considerate!\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "All the power stored in the Inchling was released,",
+                "making her small again. She'll be that way for a while."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "The Miracle Mallet will have to recollect its power later."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "It's thought the tools and weak youkai will gradually lose their power."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "Until then, Shinmyoumaru will be tiny as Inchlings are known to be."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "Did Reimu care for her because she felt guilty toward weaklings?"
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Then again, looking at such a little youkai,",
+                "it's hard to see her as the mastermind of a social upheaval."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<c$Ending No. 01 — Issun-Boshi in an insect cage.$>"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<c$All clear! Congratulations! You're cool!$>"
+            ]
+        }
+    }
+}
