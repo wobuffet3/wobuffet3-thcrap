@@ -1,0 +1,83 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "The Netherworld at night is eerie as ever..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Oh, do we have visitors?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Hold on a moment,",
+                "I'll prepare some tea."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Hold up! No need to waste your time on me."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I just want to hear if you know anything",
+                "about these strange spirits."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Spirits?",
+                "Do you mean me?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "If you want to check up on me,",
+                "you'll have to beat me first!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Alright, now tell me like you promised.",
+                "What are all these spirits running around?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "These are divine spirit children.",
+                "Bundles of human desire."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Ghostly as they may be, they're not related to the spirits here."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Desires? Thought it might be something like that.",
+                "Sorry for the bother."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "So, where will you go now?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Perhaps to the cemetery behind the temple?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Oh-hoh?"
+            ]
+        }
+    }
+}
