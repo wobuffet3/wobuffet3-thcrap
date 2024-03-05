@@ -1,0 +1,127 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Enoko  >The Forest of Magic."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A cursed forest fumed in miasma."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "There's a place no sane youkai approaches, let alone humans."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"....Wha? You're gonna let me examine your jewel?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "T-that's awfully nice of you."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Isn't it important to you though?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Enoko  >\"It's complicated, and I need to examine it thoroughly."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "I figured it'd be best to leave it to the experts ",
+                "to examine this magic item."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "Besides, the jewel's not that important to me now.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"Hmmm. Well then, I'll be on the lookout.",
+                "<l$> Oh, but doesn't this jewel have a trap?",
+                "<l$> Wouldn't it be dangerous to touch it?\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Enoko  >\"You're an expert, aren't you?"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "You should at least try to avoid that kind of risk while investigating."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "C'mon, you're a professional!\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Marisa  >\"Ah, uh, leave it to me!\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "Enoko decided to examine the jewel in order to find a way ",
+                "to be completely free from Zanmu's curse."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "It wasn't as simple as giving it up and returning to normal, ",
+                "but Marisa would surely find something that would help her."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "As for Marisa, she continued her investigation without giving up, ",
+                "even despite being sent to Hell multiple times."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "Marisa had become a regular visitor to Hell, ",
+                "and even Zanmu couldn't help but be amazed."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "Enoko was deeply moved by this."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "The little girl she had seen in the forest,"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "she had grown up to be so strong that even the oni were amazed."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Ending　No.15　　Immortal Yamainu"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "CONGRATULATIONS!",
+                "Story Cleared"
+            ]
+        }
+    }
+}

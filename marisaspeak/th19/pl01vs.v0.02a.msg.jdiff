@@ -1,0 +1,76 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I'm totally unsatisfied!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "That was a piece of cake.",
+                "Wanna try again?"
+            ]
+        }
+    },
+    "2": {
+        "34_0": {
+            "lines": [
+                "Hey hey, what's wrong?",
+                "Are you getting enough sleep?"
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "This incident doesn't seem to be an easy one to crack."
+            ]
+        }
+    },
+    "4": {
+        "34_0": {
+            "lines": [
+                "Welp.",
+                "That's enough shadowboxing for now."
+            ]
+        }
+    },
+    "5": {
+        "34_0": {
+            "lines": [
+                "Do you feel heavy wearing those ear ornaments?"
+            ]
+        }
+    },
+    "6": {
+        "34_0": {
+            "lines": [
+                "Your eyes told me that",
+                "you're looking for treasures!"
+            ]
+        }
+    },
+    "7": {
+        "34_0": {
+            "lines": [
+                "You sure love Earth, don't you?"
+            ]
+        }
+    },
+    "8": {
+        "34_0": {
+            "lines": [
+                "Do you have nowhere to live on Earth?",
+                "How about moving to Forest of Magic if so?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "That place doesn't welcome anyone,",
+                "thus a great place for the unwelcomed!"
+            ]
+        }
+    }
+}
