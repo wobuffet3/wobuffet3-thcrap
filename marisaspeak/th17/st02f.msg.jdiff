@@ -1,0 +1,94 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "This river's as creepy as always..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I never thought I'd see a flesh and blood human",
+                "|\tin \t,\ta place like this.\t,the Sanzu River.",
+                "in a place like this."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Are you lost?",
+                "This isn't a place for the living."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Hey, finally someone I can talk to!",
+                "Perfect timing."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Tell me which way Higan is, now!",
+                "If you can't, then get lost!"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Hm?",
+                "You want to go to Higan?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Direction to Higan, huh?",
+                "Let's see..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "|\tIt's straight to the \t,\tnortheast\t,oni's gate",
+                "It's straight to the northeast",
+                "Come closer to me, now."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Mrgh. You're strong."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "What a pointless battle.",
+                "Now, which way is Higan?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Just keep going straight ahead."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Sheesh, you coulda just said",
+                "so in the first place."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I'm trying to conserve my magic for Hell, ya know."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You're not just heading",
+                "for Higan, but for Hell?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "You, uh...",
+                "You've got my condolences."
+            ]
+        }
+    }
+}

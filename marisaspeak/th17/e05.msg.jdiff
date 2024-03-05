@@ -1,0 +1,106 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Yachie  $Marisa  >Marisa's house."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A snug house found in the Forest of Magic."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Yachie  >\"I'm Kicchou, the boss of the Kiketsu Family."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> You have my extreme gratitude for",
+                "<l$> cooperating with our Otter this time around.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >\"Waah! You scared me. What is it? Don't just pop out like that.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Yachie  >\"Thanks to your cooperation, we've",
+                "<l$> managed to deal a blow to that evil god.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Marisa  >\"That's right, in the end I still don't really know",
+                "<l$> what I was fighting with, and what I got caught up in...\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Yachie  >\"We, the beast spirits, were being harassed by",
+                "<l$> that group of idols led by that Keiki."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> The group of idols was trying to put the entirety of the Animal Realm under their control.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Yachie  >\"Only a human from the surface, who possessed both a physical form and",
+                "<l$> a different faith, could destroy those idols."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> That is why your cooperation was necessary.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Marisa  >\"It would've been fine if you had just told me from the start.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Yachie  >\"You have my sincerest apologies."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> But I can't afford even the slightest chance of failure.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "According to her, if she revealed the plan to the humans, then there was a chance",
+                "that Keiki would hear about it, so that's why she needed to deceive them."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "Marisa wasn't able to read Yachie's true intentions from her words."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "Or rather, perhaps she just couldn't see Keiki as an evil god."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<c$Ending No. 05 — Might Makes Right$>"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "Congratulations!",
+                "Good job on your No Continue Clear!"
+            ]
+        }
+    }
+}

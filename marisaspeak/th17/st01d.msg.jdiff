@@ -1,0 +1,78 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Lotta beast spirits here, huh?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Looks like they're coming from across the river,",
+                "no doubt about it."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Hey, you there!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "All the stones we were stacking fell over",
+                "because you were thrashing around!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "The stones? ",
+                "Those things basically exist to get knocked over."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "I saved you the trouble of having those little oni",
+                "knock 'em over for you. You should be thanking me."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Even the little oni don't knock them over",
+                "one by one... You're worse than an oni!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "You oni!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Argh... So strong..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You done already?",
+                "Talk about boneless."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Boneless...?",
+                "You're talking to <i$me> about <i$bones>!?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "W-What's wrong?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Who... Who cares if I don't have any bones!"
+            ]
+        }
+    }
+}
