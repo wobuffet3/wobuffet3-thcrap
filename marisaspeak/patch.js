@@ -7,5 +7,5 @@
   "servers": [
     "https://mirrors.thpatch.net/wobuffet3/spaghetti/"
   ],
-  "title": "WIP (TH12-17) Reverts Marisa's cowboy dialect. ZUN games only for now."
+  "title": "WIP (TH12-18) Reverts Marisa's cowboy dialect. ZUN games only for now."
 }
