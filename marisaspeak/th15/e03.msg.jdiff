@@ -1,0 +1,221 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Yukari  >Marisa's house."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "It is in the middle of Gensokyo, in the brimming with impurity Forest of Magic."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"Well, it's amazing that I'm alive."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> It turns out that there were some strong enemies in the Lunar Capital."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Although, it looks like thanks to me, the capital was saved.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"It turns out I was just the moon peoples' pawn.",
+                "<l$> Even thinking about this is annoying.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Marisa  >\"But I learned something very important from Sagume."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> The reason urban legends came alive,"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> is because of this thing's power.\""
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "You have completed the game! Congratulations!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Pointdevice Mode or No Miss Clear Ending"
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "Ending　No.03 Lunar Legacy"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"This power stone from the Lunar Capital."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> It's a good thing I took the one that was mixed with the occult balls."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> I had no idea it held such power it could make Gensokyo fall into chaos.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Yukari  >\"Hello! I hope I'm not bothering you.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Marisa  >\"Waah, you surprised me! Stop appearing so suddenly.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Yukari  >\"So, you've been to the Lunar Capital?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >\"Uh, yeah. I went and saved the Lunar Capital.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Yukari  >\"Aha, great job, superhero.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Marisa  >\"Super<b$heroine>. What business do you have here?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Yukari  >\"This power stone. Show it to me a little.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Marisa  >\"Ah, I guess you want to retrieve and break it?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Yukari  >\"Nooo, not at all. Such a precious thing... why do you think I would do that?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Marisa  >\"Well, this is a dangerous item which has the power to materialize urban legends."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> It could actually make Gensokyo fall into chaos.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Yukari  >\"What are you saying? I already knew all that.\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Yukari  >\"Aren't we lucky to have gained such information and such magical power?"
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> Gensokyo can change even more with this.\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Marisa  >\"What? Saying this isn't like you.\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Marisa  >\"I was certain you were the type who'd protect the barrier and reject change, but...\""
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Yukari  >\"Ufufufu, was that so?"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<l$> At any rate, did you meet the one who created this power stone?\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Marisa  >\"Y-yeah...\""
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Yukari  >\"Splendid, make sure to cherish your relationship with that one."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<l$> Dear me! It's a delight to be so busy.\""
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "No matter how much she pushed herself, Marisa couldn't read Yukari's thoughts."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "In the end, she disappeared without laying her hand on the power stone."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Yukari talked about Gensokyo changing, but for what reason did she show herself there?"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Marisa thought."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "The goal of Yukari is to protect Gensokyo."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "But does it mean that for that purpose,",
+                "she'd consider even things like invading the Outside World or the Lunar Capital?"
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "Even though she thought to herself that it was impossible, the thought sent a chill down her spine."
+            ]
+        }
+    }
+}

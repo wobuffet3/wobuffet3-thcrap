@@ -1,0 +1,212 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reisen  $Marisa  >Marisa's house."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "It is in the middle of Gensokyo, in the brimming with impurity Forest of Magic."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reisen  >\"What? The mission failed?\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"Well, whether it failed or not"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> ...I didn't even really understand what plan it was to begin with.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Reisen  >\"The plan to chase the moon rabbits back."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> You at least understood that, right?"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> It was a mistake to rely on you.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Marisa  >\"Why did you entrust me with that ‘Ultramarine Orb Elixir’ in the first place?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reisen  >\"It wasn't only you."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> We also gave it to other humans.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Reisen  >\"However, these other humans said they didn't want to use that elixir."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Well, there could actually be some secondary effects...\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Marisa  >\"What? Are there?!\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reisen  >\"Because of that, the only one who merrily took it was you,"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$> but it is a disappointment that you failed.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Marisa  >\"Wait a sec.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Marisa  >\"As you said, I took the elixir, but I didn't use it.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reisen  >\"Huh?\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Reisen  >\"Then, you didn't use it, attacked the Lunar Capital,",
+                "<l$> lost, and fled back?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Marisa  >\"I didn't flee! I kept going till the end.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Reisen  >\"Weren't you happy to receive the elixir?"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> What was that about, then!?\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Marisa  >\"See, that was because I obtained a rare item."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> It entered my collection as a treasure."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> It would've been a waste to use it.\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Reisen  >\"Haaah, Master, humans are doomed."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<l$> This isn't even worth talking about."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$> Now, it looks like I have no choice but to go myself...\""
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Marisa  >\"What's this? If you can go yourself,",
+                "<l$> then you should've gone yourself from the start.\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Reisen  >\"But I don't want to use that elixir!\""
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "Marisa didn't tell everything about what happened in the Lunar Capital."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "There were things she couldn't understand anyway,",
+                "and overall she was deceived by Reisen, she thought."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "However, she noticed that it wasn't the case after meeting her."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "It seemed Reisen didn't know the truth either."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "It was the right decision not to use the elixir, Marisa thought."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "The only person who knew the truth was the one who crafted the elixir, Eirin, after all."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "Marisa didn't want to take part in such a shady plan."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Ending　No.04　The moon rabbit's resolution"
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "You have completed the game! Congratulations!"
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "Self Clear Ending"
+            ]
+        }
+    }
+}
