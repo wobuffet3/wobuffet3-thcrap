@@ -1,0 +1,28 @@
+{
+    "1": {
+        "lines": [
+            "Heck yeah, I win!",
+            "I'm already good and prepared."
+        ]
+    },
+    "2": {
+        "lines": [
+            "I'm gonna head underground to investigate.",
+            "You sit tight up here!"
+        ]
+    },
+    "3": {
+        "lines": [
+            "We don't know what the black water is,",
+            "and we can't be sure if there's ",
+            "even an enemy down there."
+        ]
+    },
+    "4": {
+        "lines": [
+            "Times like these often ",
+            "end up being wasted effort,",
+            "so be careful down there."
+        ]
+    }
+}

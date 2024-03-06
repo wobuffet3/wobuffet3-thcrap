@@ -1,0 +1,44 @@
+{
+    "1": {
+        "lines": [
+            "This is my first time being in this cavern, but...",
+            "It's a lot bigger than I thought."
+        ]
+    },
+    "2": {
+        "lines": [
+            "I've heard rumors about it leading all the way",
+            "to Former Hell... which just might be true."
+        ]
+    },
+    "3": {
+        "lines": [
+            "D'oh!"
+        ]
+    },
+    "4": {
+        "lines": [
+            "Yes, gotcha!",
+            "Today's prey is really big!"
+        ]
+    },
+    "5": {
+        "lines": [
+            "...Wait, Marisa?!"
+        ]
+    },
+    "6": {
+        "lines": [
+            "What the heck?!",
+            "There's a spider living here."
+        ]
+    },
+    "7": {
+        "lines": [
+            "Someone's gotta clean up the place, even in a cave!"
+        ]
+    },
+    "stagename": [
+        "“Miasma-Filled Cramped Space”"
+    ]
+}
