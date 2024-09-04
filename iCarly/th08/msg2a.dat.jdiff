@@ -1,0 +1,182 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Wait, waaaait!"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "60_2": {
+            "lines": [
+                "I thought you were some foolishly-tasty humans,",
+                "at long last."
+            ]
+        },
+        "61_h1_0": {
+            "lines": [
+                "Mystia Lorelei"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Who exactly would you two be~?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Foolishly-tasty humans?"
+            ]
+        },
+        "63_1": {
+            "lines": [
+                "...Are you?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "I'm pretty sure that was a question."
+            ]
+        },
+        "65_1": {
+            "lines": [
+                "In any case, it's nice seeing humans go along this road."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You seem to be some kinda bird."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Are you with that bug from earlier?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "She couldn't help us with the moon problem."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Maybe she could help boost our viewership."
+            ]
+        },
+        "70_1": {
+            "lines": [
+                "Oh, never mind. Humans haven't been seen",
+                "on night roads for a long time."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "If there's anyone else here at all, it'd be non-humans",
+                "in a big hurry, or had some important reason to be here."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Listen. No offense, but",
+                "If you can't help us, then just say so."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "We don't have time to waste here,",
+                "So can ya move?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Didn't you just tell me to chillax?",
+                "Honestly, Sam..."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Aw, even though you're playmates after so long..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "I know. How about we go to the village",
+                "and mess with the other humans together?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "There's other humans and no one said anything?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "It's not like I knew."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "??"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "This is going nowhere. Let's go!"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "If it's a fight you want..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Then I'll make you night-blind!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Geez, I thought I went blind."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Maybe you should have been more clear",
+                "when you said \"Let's go.\""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Yeah, I guess I could have.",
+                "Doesn't really matter now, anyway."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Let's go this way then.",
+                "The path opens up."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Looks like a village in the distance, too."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Hopefully it won't be full of",
+                "weird people, like those two."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Can't really get weirder than Spencer, though."
+            ]
+        }
+    }
+}

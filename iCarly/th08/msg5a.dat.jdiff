@@ -1,0 +1,284 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "You're too late."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "I've sealed all the doors.",
+                "You can't take the princess away now, can you?"
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "Princess? What is this, a video game?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "You can not, with a straight face,",
+                "just tell that to someone."
+            ]
+        },
+        "123_h1_0": {
+            "lines": [
+                "Reisen"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "What, are you humans?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "You shouldn't have been able to find your",
+                "way here, though. Nothing to worry about."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Now this bunny is lecturing us."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I wouldn't say this is a lecture,",
+				"I'm just introducing myself."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Weird way to introduce yourself.",
+                "Most people start with their name."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "It doesn't matter.",
+                "Soon, you'll be too mad to walk straight!"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "We found the culprit."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Yeah, it's definitely her.",
+                "I have a feeling there's more to it, though."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Ah, you're talking about the Moon?",
+                "That's my master Eirin's most powerful spell."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "It makes this Earth into a giant, sealed chamber.",
+                "Do you get it now?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Not at all."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Mm-mm.",
+                "Humans can't understand with an explanation like that."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Also, about that full moon-erasing spell.",
+                "It's hardly my most powerful one."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Carly.",
+                "<i$She's> the culprit. I can smell it."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "I think you're smelling that rabbit girl."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Hey, old lady.",
+                "Return the moon to normal. C'mon!"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "...It's still too early for that.",
+                "There's no way I can undo this spell yet."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Udonge.",
+                "Conflict and insanity are all your job, correct?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "I'll leave this to you."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Leave it to me.",
+                "I won't let a single one of those closed doors be opened."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "We're gonna beat you,",
+                "and open all those doors."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "So many doors."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Hmph. I haven't had anyone to fight with lately,",
+                "so this is just about perfect."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "I'll show you two everything",
+                "of the Moon's insanity!"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "If anyone is insane here, it's you."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "It's my hypnosis, that drove the humans who came",
+                "to the Moon insane. Those humans were weak."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "You know, you'd make an interesting guest on our webshow."
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "The Moon drives people insane."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "So, I wonder if you can remain in your right mind",
+                "while gazing into the eyes of this lunar rabbit?"
+            ]
+        }
+    },
+    "3": {
+        "180_0": {
+            "lines": [
+                "Open doors on the left side (Final A)",
+                "Open doors on the right side (Final B)"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Sam, let's open these doors!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "It's door opening time.",
+                "Prepare yourself, little bunny."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Uuu... I've failed you, master..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hey Carly, this one leads down a hallway."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh geez, there's crazy energy coming out of this one.",
+				"That old lady is definitely in here."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Don't call her that, she's only..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Don't care.",
+                "Bye!"
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "Sam, let's open those doors!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I think that old lady went into a door on the left.",
+                "There are so many, I can't tell."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oh, Sam, look.",
+                "A door over here is open a crack."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Oh no!",
+                "I didn't finish sealing them in time."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "She's <i$definitely> in here then!"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "There's crazy energy coming out of it.",
+                "Let's go!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Aww, my master will be mad at me..."
+            ]
+        }
+    }
+}

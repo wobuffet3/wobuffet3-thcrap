@@ -1,0 +1,229 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Move and I'll shoot!"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "I messed up.",
+                "I mean, shoot and I'll move. Right away."
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "Hey, aren't you that witch who sent us out here?",
+                "What's up?"
+            ]
+        },
+        "122_h1_0": {
+            "lines": [
+                "Marisa"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Well, uh, I'm just hunting some troublesome youkai.",
+                "How is your search going?"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Oh, you know. Normal.",
+                "What's a... yo-kai?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Don't worry about it.",
+                "Have you figured anything out yet?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Not really."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Are you sure you're a witch?",
+                "You're <i$way> too cute."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Yep! I'm Gensokyo's number one youkai exterminator!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Just the mention of my name",
+                "silences crying children."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Oookay. That was definitely a lie."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Wanna try me?",
+                "I'm capable of way more than I look like."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Then why'd you send us out on",
+                "whatever this hunt is?"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Yeah, we're just a couple of kids.",
+                "Why don't you do it instead, and send us home?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "I, uh.."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "She probably can't.",
+                "We're probably stuck here."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "You're right,",
+                "I don't have that ability."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Looks like we have another obstacle, then."
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Now you're getting it, Carls!"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "I feel like we need to beat the answers out of her, too."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "I was going to tell you anyway, but..."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Fighting is the lifeblood of this place."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I'll point you in the right direction,",
+                "if you can prove yourself to me!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "This is going to suck."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "You're damn right it is!"
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "Is she seriously running away?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Yup. If we catch her, we'll win!"
+            ]
+        }
+    },
+    "3": {
+        "60_0": {
+            "lines": [
+                "Roses are red,",
+                "Violets are blue..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "You can't be serious."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "That last one was for your friend.",
+                "This one's for you!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Game over, you dumb witch!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Dumb people usually aren't this strong."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Dammit.",
+                "You're stronger than I thought."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Were you trying to kill us?",
+                "That's really low."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Hey, Sam.",
+                "There's a mansion just over there."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Well, I lost, so there isn't much I can do.",
+                "Come see me in the village if you succeed."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "If you die, then uh, Reimu'll finish the job."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "If we die, I'll haunt you until you join us."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Sam, that's a little dark."
+            ]
+        }
+    }
+}

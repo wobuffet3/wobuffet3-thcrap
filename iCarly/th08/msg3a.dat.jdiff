@@ -1,0 +1,270 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Is it you? Are you the ones trying to attack",
+                "the village in the middle of this night?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "What? No! We're just defending ourselves",
+                "from all these creatures shooting at us!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I won't hand the humans over to you two."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'll make this night never have happened!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Aah, what the heck are you?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "We're humans!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "So persistent."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Can you just wait a minute?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "We finally find an adult and you're",
+				"treating us like we're criminals!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "We're just investigating this weird moon!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There's two outside humans flying around,",
+				"in the middle of the night, attacking everything."
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Keine Kamishirasawa"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Is that not suspicious?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Lady, you have the wrong idea."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "We're just gathering intel about the messed up moon."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Please, if you can tell us anything, it would help."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "We're just webshow hosts, this is",
+                "NOT in our job description."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "I've hidden this village, since you're obviously lying."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Everything you've just said is suspicious."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "I'll protect the humans from this ill-omened night."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "How about we fight you for it?"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "That seems like the way things work here."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "It lines up with what that witch said, anyway."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "That witch, you say?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "<i$She> put you up to this?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I think we may be in over our heads."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Uu. You definitely are."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "You know, I've been thinking."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "It feels like there's more to you than you're letting on.",
+				"Are you a werewolf, or something?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I'm human when the Moon isn't full."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "So, a werewolf then.",
+                "You just grow hair, or what?"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Why are you assuming it's a small change?!",
+                "I'll have you know that the transformation is full-body!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "So you turn into a puppy?",
+                "I've always wanted a pet dog."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "...What?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "If you're going to say that, I won't let you take it back."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Tonight, I'll make an imperial feast out of your history!"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "I have no idea what that means,",
+                "but we'll take you on!"
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Sam, why'd you provoke her?!",
+                "I wanted to avoid as much fighting as we could."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Now, give us your money!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Carly, chill.",
+                "We don't want her money."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Then, what do you want?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Just info.",
+				"...Maybe a few bucks for food."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Tell us everything you know."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "If you're after the ones behind the recent unusual Moon,",
+                "they're that way."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Wow, that was easy."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "If I didn't provoke her, we'd still be arguing."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "That makes no sense.",
+                "Then again, nothing that's happened tonight has."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Maybe we should just ditch common sense."
+            ]
+        }
+    }
+}
