@@ -1,0 +1,317 @@
+{
+    "8": {
+        "lines": [
+            "　　The Hakurei Shrine at night."
+        ]
+    },
+    "10": {
+        "lines": [
+            "　　The true full moon had returned to Gensokyo.",
+            "　　The previous moon was just a papier-mache toy.",
+            "　　But in contrast, tonight's moon was brightly shining."
+        ]
+    },
+    "14": {
+        "lines": [
+            "　　The moon's true power is that it boosts the purification rate of",
+            "　　the sunlight... to dispel the illusions of Gensokyo."
+        ]
+    },
+    "17": {
+        "lines": [
+            "　　It's so like Gensokyo for this to happen on the night of a full moon..."
+        ]
+    },
+    "21": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Today the moon is also clearly visible~.",
+            "<l$$12345678\"> Hey, I say that and suddenly a lot of people gather again.\""
+        ]
+    },
+    "25": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Ah, it's just the usual.",
+            "<l$$12345678\"> Come on, things like this are necessary once in a while.\""
+        ]
+    },
+    "29": {
+        "lines": [
+            "<l$Reimu:$12345678> \"You say that like you did any of the work this time...",
+            "<l$$12345678\"> ...you could get a different excuse, you know.\""
+        ]
+    },
+    "33": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Oh well, it's okay. Those two did a pretty good job.",
+            "<l$$12345678\"> Are you sure it's okay to let them drink, though? They're so young.\""
+        ]
+    },
+    "37": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Geez! It's the shrine's sake, just drink it!\""
+        ]
+    },
+    "40": {
+        "lines": [
+            "<l$Alice:$12345678> \"Shut up!",
+            "<l$$12345678\"> Won't you calm down a little and have some more sake?\""
+        ]
+    },
+    "44": {
+        "lines": [
+            "<l$Marisa:$12345678> \"I'm awake all this time now.",
+            "<l$$12345678\"> The noisy time as well as the unnoisy time became noisy.\""
+        ]
+    },
+    "48": {
+        "lines": [
+            "<l$Carly:$12345678> \"You sure are a lively bunch.",
+            "<l$$12345678\"> This is pretty nice!\""
+        ]
+    },
+    "52": {
+        "lines": [
+            "<l$Sam:$12345678> \"Yeah, who knew sitting around and eating food could be fun?\""
+        ]
+    },
+    "55": {
+        "lines": [
+            "<l$Carly:$12345678> \"Har har. Anyway, Ray-moo, was it?",
+            "<l$$12345678\"> Can you tell us what this moon stuff was all about?"
+        ]
+    },
+    "58": {
+        "lines": [
+            "<l$$12345678\"> Marisa seems like she's too drunk to tell us",
+            "<l$$12345678\"> the whole story.\""
+        ]
+    },
+    "61": {
+        "lines": [
+            "<l$Sam:$12345678> \"I would be too if I was in her shoes.\""
+        ]
+    },
+    "64": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Well, I found you two unconscious in the Human Village.\""
+        ]
+    },
+    "67": {
+        "lines": [
+            "<l$Carly:$12345678> \"I remember going to sleep in my own bed and waking up there.\""
+        ]
+    },
+    "70": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Marisa had the idea to have you two go after the moon, for some reason.\""
+        ]
+    },
+    "74": {
+        "lines": [
+            "<l$Sam:$12345678> \"I hated it at first, but throwing orbs around was kinda fun!\""
+        ]
+    },
+    "76": {
+        "lines": [
+            "<l$Marisa:$12345678> \"I thought that since you two were humans from outside,",
+            "<l$$12345678\"> then the Lunarians couldn't touch you.\""
+        ]
+    },
+    "79": {
+        "lines": [
+            "<l$Carly:$12345678> \"Lunarians? Those people were from the moon?\""
+        ]
+    },
+    "83": {
+        "lines": [
+            "<l$Reisen:$12345678> \"We're right here, you know.\""
+        ]
+    },
+    "86": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"Oh, my. Did they forget our presence?\""
+        ]
+    },
+    "89": {
+        "lines": [
+            "<l$Sam:$12345678> \"My bad, we're a little bit tipsy."
+        ]
+    },
+    "91": {
+        "lines": [
+            "<l$Eirin:$12345678> \"Marisa was half correct."
+        ]
+    },
+    "94": {
+        "lines": [
+            "<l$$12345678\">Eirin: Lunarians of the moon wouldn't dare go near you two.\""
+        ]
+    },
+    "96": {
+        "lines": [
+            "<l$$12345678> It's because they're obsessed with purity.\""
+        ]
+    },
+    "99": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"That's right! But we've grown used to the impurities of earth.\""
+        ]
+    },
+    "102": {
+        "lines": [
+            "<l$Eirin:$12345678> \"Indeed. You coming here from outside makes no difference.\""
+        ]
+    },
+    "105": {
+        "lines": [
+            "<l$Reimu:$12345678> \"This was more dangerous than I thought."
+        ]
+    },
+    "107": {
+        "lines": [
+            "<l$$12345678\"> I should have had Yukari send you two back home immediately.",
+            "<l$$12345678\"> I don't know what I was thinking, listening to Marisa.\""
+        ]
+    },
+    "110": {
+        "lines": [
+            "<l$Marisa:$12345678> \"I thought it was a good idea at the time~\""
+        ]
+    },
+    "113": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Well, I'm just glad they're safe.\""
+        ]
+    },
+    "116": {
+        "lines": [
+            "<l$Eirin:$12345678> \"I'm grateful as well."
+        ]
+    },
+    "118": {
+        "lines": [
+            "<l$$12345678\"> It seems we had no reason to put up a barrier in the first place."
+        ]
+    },
+    "120": {
+        "lines": [
+            "<l$$12345678\"> This ordeal amounted to some much-needed exercise.\""
+        ]
+    },
+    "123": {
+        "lines": [
+            "<l$Reisen:$12345678> \"You're just okay with this?"
+        ]
+    },
+    "125": {
+        "lines": [
+            "<l$$12345678\"> They said some pretty awful things about you."
+        ]
+    },
+    "127": {
+        "lines": [
+            "<l$$12345678\"> Calling you old, calling us crazy...\""
+        ]
+    },
+    "130": {
+        "lines": [
+            "<l$Eirin:$12345678> \"Oh, hush."
+        ]
+    },
+    "132": {
+        "lines": [
+            "<l$$12345678\"> It meant nothing to me.\""
+        ]
+    },
+    "135": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"It's not like they were wrong~"
+        ]
+    },
+    "137": {
+        "lines": [
+            "<l$$12345678\"> I'm an eternal being. The past days are infinite."
+        ]
+    },
+    "139": {
+        "lines": [
+            "<l$$12345678\"> That's why age has no meaning for us. Let's keep having fun!"
+        ]
+    },
+    "141": {
+        "lines": [
+            "<l$$12345678\"> A thousand years or ten thousand years,",
+            "<l$$12345678\"> there's nothing in them matching this moment.\""
+        ]
+    },
+    "143": {
+        "lines": [
+            "<l$Carly:$12345678> \"S-sorry for all that. Heat of the moment.\""
+        ]
+    },
+    "146": {
+        "lines": [
+            "<l$Reisen:$12345678> \"Hey, that's my meatball~!\""
+        ]
+    },
+    "149": {
+        "lines": [
+            "<l$Eirin:$12345678> \"If the princess would consider such an act, I will do it as well.\""
+        ]
+    },
+    "152": {
+        "lines": [
+            "<l$Sam:$12345678> \"Yo! Not cool, stealing my noodles.\""
+        ]
+    },
+    "155": {
+        "lines": [
+            "<l$Eirin:$12345678> \"Consider it payback for your insults.\""
+        ]
+    },
+    "158": {
+        "lines": [
+            "<l$Kaguya:$12345678> \"Say, you two humans. I have an idea...\""
+        ]
+    },
+    "161": {
+        "lines": [
+            "　　Carly and Sam were spirited away into Gensokyo.",
+            "　　Upon seeing the warped moon, Marisa thought it would be",
+            "　　a good idea to send them out there."
+        ]
+    },
+    "165": {
+        "lines": [
+            "　　She thought the moon residents wouldn't touch them."
+        ]
+    },
+    "167": {
+        "lines": [
+            "　　She taught them basic self defense,",
+            "　　And sent them on their way."
+        ]
+    },
+    "170": {
+        "lines": [
+            "　　Miraculously, they did the job and made it back alive."
+        ]
+    },
+    "172": {
+        "lines": [
+            "　　Reimu was in hysterics, but it turned out fine in the end."
+        ]
+    },
+    "174": {
+        "lines": [
+            "　　Before having Yukari send them back to Seattle,",
+            "　　Kaguya thought to give them one last job."
+        ]
+    },
+    "177": {
+        "lines": [
+            "　　Good Ending No. 1",
+            "　　Thanks for playing! (The trial of guts lies ahead...)"
+        ]
+    }
+}

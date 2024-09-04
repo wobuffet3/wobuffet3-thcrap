@@ -198,7 +198,7 @@
         },
         "152_0": {
             "lines": [
-                "Should I hit her with my butter sock?"
+                "I'll hit her with my butter sock."
             ]
         },
         "153_0": {
@@ -326,7 +326,7 @@
         },
         "64_0": {
             "lines": [
-                "What an interesting woman!"
+                "Oh man, that sucks."
             ]
         },
         "65_0": {
@@ -353,8 +353,8 @@
         },
         "69_0": {
             "lines": [
-                "Well, he's gross, and rude, but",
-				"I wouldn't say I'm afraid of him."
+                "Well, he's rude, and gross, but",
+				"I wouldn't say I'm <i$afraid> of him."
             ]
         },
         "70_0": {

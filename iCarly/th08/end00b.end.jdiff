@@ -1,0 +1,117 @@
+{
+    "8": {
+        "lines": [
+            "　　The Hakurei Shrine at night."
+        ]
+    },
+    "10": {
+        "lines": [
+            "　　The long-awaited full moon was bewitchingly illuminating Gensokyo.",
+            "　　The chilly night was compensated for with alcohol.",
+            "　　Tonight was a night where watching the moon was most enjoyable."
+        ]
+    },
+    "14": {
+        "lines": [
+            "　　It's true that the full moon returned, but still...",
+            "　　The princess of that moon had hidden herself somewhere again."
+        ]
+    },
+    "19": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Hello. Watching the moon?",
+            "<l$$12345678\"> Oh my, there sure are a lot of people gathered here.\""
+        ]
+    },
+    "23": {
+        "lines": [
+            "<l$Marisa:$12345678> \"Ah, the usual crowd. There's no place other",
+            "<l$$12345678\"> than the shrine where the moon looks so beautiful.\""
+        ]
+    },
+    "27": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Didn't you say the same thing about the cherry blossoms?\""
+        ]
+    },
+    "30": {
+        "lines": [
+            "<l$Alice:$12345678> \"The forest is shining in the moonlight, too.",
+            "<l$$12345678\"> We have to enjoy this long-awaited full moon together.\""
+        ]
+    },
+    "34": {
+        "lines": [
+            "<l$Reimu:$12345678> \"It's all good.",
+            "<l$$12345678\"> Who's going to clean all this up?\""
+        ]
+    },
+    "39": {
+        "lines": [
+            "<l$Sam:$12345678> \"Aren't you forgetting someone?",
+            "<l$$12345678\"> We're here too.\""
+        ]
+    },
+    "43": {
+        "lines": [
+            "<l$Carly:$12345678> \"Yeah, we still don't know what any of this was.",
+            "<l$$12345678\"> The food's great, though.\""
+        ]
+    },
+    "47": {
+        "lines": [
+            "<l$Sam:$12345678> \"I can't believe you're letting us drink alcohol.",
+            "<l$$12345678\"> This stuff's pretty good!\""
+        ]
+    },
+    "51": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Don't get carried away, now.\""
+        ]
+    },
+    "54": {
+        "lines": [
+            "<l$Sam:$12345678> \"So, the moon.",
+            "<l$$12345678\"> What exactly was wrong with it?",
+            "<l$$12345678\"> And who were those dorks?\""
+        ]
+    },
+    "59": {
+        "lines": [
+            "<l$Carly:$12345678> \"Why did we have to deal with it all?\""
+        ]
+    },
+    "62": {
+        "lines": [
+            "<l$Reimu:$12345678> \"Well, it's like this...\""
+        ]
+    },
+    "65": {
+        "lines": [
+            "<l$Sam:$12345678> \"Huh. Interesting.\""
+        ]
+    },
+    "68": {
+        "lines": [
+            "<l$Carly:$12345678> \"Is that right?\""
+        ]
+    },
+    "71": {
+        "lines": [
+            "　　The moon was charmingly glittering.",
+            "　　However, the incident wasn't solved."
+        ]
+    },
+    "74": {
+        "lines": [
+            "　　The moon still looked warped.",
+            "　　Reimu sent the two girls out again to finish the job."
+        ]
+    },
+    "77": {
+        "lines": [
+            "　　Normal Ending No. 5",
+            "　　Try playing again without using a continue!"
+        ]
+    }
+}
