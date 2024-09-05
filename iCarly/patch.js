@@ -1,7 +1,7 @@
 {
   "dependencies": [
     "nmlgc/base_tsa",
-    "nmlgc/base_tasofro"
+    "nmlgc/base_tasofro",
 	"thpatch/lang_en"
   ],
   "id": "iCarly",
