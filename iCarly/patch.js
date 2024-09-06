@@ -8,5 +8,5 @@
   "servers": [
     "https://mirrors.thpatch.net/wobuffet3/icarly/"
   ],
-  "title": "(TH08) Replaces Border Team with Carly and Sam. Full story replacement."
+  "title": "(TH08) Replaces Border Team with iCarly characters. Full story and image replacement."
 }
