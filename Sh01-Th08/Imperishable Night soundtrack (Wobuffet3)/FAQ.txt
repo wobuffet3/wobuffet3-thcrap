@@ -5,3 +5,5 @@ A: Mostly due to stage and song length.
 -Th08 having two final bosses and a last word is partially why I chose this game's soundtrack to use to begin with. So I just put those three songs over Vivit's themes. I put Voyage 1970 in the middle because both songs are short, and Kaguya's theme sounds more "final" than Eirin's. You fight Eirin first, after all. Unfortunately, I had to leave Eastern Youkai Beauty out, I'm really not sure where I could have put it.
 In any case, thank you for downloading! I hope all three of you Seihou fans enjoy it.
 -Wobuffet3
+
+https://github.com/nmlgc/BGMPacks/releases/tag/2024-10-05
