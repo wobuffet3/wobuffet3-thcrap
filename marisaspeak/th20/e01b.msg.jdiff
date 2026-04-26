@@ -1,0 +1,84 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >Marisa's House."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A cozy little magic house in the Forest of Magic."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<c$Ending No.18 — Might Be Better to Just Forget About It$>"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<c$Next time, aim for a No Continue Clear!$>"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >“Ow-ow-ow!"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> I’m aching all over for some reason."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> What was I even doing yesterday?”"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >“That’s weird. I feel like I was doing something important."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> But I just can’t remember much of it."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> I have a vague feeling I saw a pyramid...”"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Marisa  >“Huh, what’s that, a weird looking stone..."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> Is it calling to me...? Oh!”"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "Seeing the Incident Enemy reminded Marisa of everything."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "Gensokyo's standstill,"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "and its effects on her."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "Incident Stone in hand, she set off for the sanctuary once again."
+            ]
+        }
+    }
+}

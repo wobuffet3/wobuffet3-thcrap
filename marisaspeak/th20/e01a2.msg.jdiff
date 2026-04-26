@@ -1,0 +1,271 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Ariya  $Marisa  $Yukari  >Deep below the Asama Purifying Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a grueling battle, Marisa Kirisame",
+                "defeated Ariya Iwanaga, the goddess of unchanging."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> However...”"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Ariya  >“A torrent of impurity from the Outside World will also rush in."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> What happens after that... is in your hands.”"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Ariya  >“Why don’t you witness for yourself how Gensokyo changes?”"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "Marisa's House."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$Congratulations on your No Continue Clear!$>"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "A cozy little magic house in the Forest of Magic."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Yukari  >“You called?”"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >“Aah! No, I didn’t! I really didn’t!”"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Yukari  >“Well, it’s about time you did.",
+                "<l$> You were looking into the Incident Stone, weren’t you?”"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Marisa  >“How do you know about that...?”"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Yukari  >“Because, after all, I’m the one who bestowed it upon you.”"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Marisa  >“You’re kidding!?”"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Yukari  >“And you used it to avert the incident, didn’t you?”"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Marisa  >“Alright. Gimme the full story.”"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Yukari  >“In the Outside World, something called ‘artificial intelligence’, also known as ‘AI’,",
+                "<l$> is trying to debase vast quantities of truth into fiction."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> Because of that, a huge flood of information was bound to flow into Gensokyo."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$> If left unchecked, it would throw Gensokyo into chaos."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Yukari  >“If information from living beings, the so-called ‘impurity’, reaches the Lunar Capital,",
+                "<l$> it wouldn’t be able to maintain its eternity, and would surely collapse."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> However, the Lunar Capital was facing an even greater crisis.”"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$> After all, the Capital is built on nothing but",
+                "<l$> a magnificent foundation of selected, beautiful information.”"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Marisa  >“Huh, I see...?”"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Marisa  >“Wha-?!”"
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<r$Yukari  >“They’re so considerate, aren’t they? Giving us a proper warning."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "<r$Marisa  >“Alright, you lost me.”"
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<l$> So, after that, I thought it over. Using the little brains I have."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<l$> Thus, the conceived plan was as follow:",
+                "<l$> to fight incident with incident, and accept the change."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Yukari  >“The Lunarians caused this incident so the influx of information",
+                "<l$> from the outside could be rendered harmless."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<l$> In fact, they consulted me before the incident began."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<l$> They said that with or without this plan, Gensokyo would likely perish anyway.”"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<r$Yukari  >“It’s simple, really. We just gave you humans the very power of an incident",
+                "<l$> to outmaneuver the Lunarians’ scheme.\""
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<r$Marisa  >“So, did you come up with that weird plan all by yourself?”"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<r$Yukari  >“No, it was a gambit devised by those who love Gensokyo."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<l$> All I did was slip you the stone."
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "Marisa was dumbfounded."
+            ]
+        },
+        "44_0": {
+            "lines": [
+                "Even so, she wondered just who “those who love Gensokyo” were."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Ariya  >“That Incident Stone was certainly the real deal."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Thanks to you, I can take some time off work. I'm grateful.”"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >“Wait, return Gensokyo to normal first!”"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Ariya  >“You needn’t worry. Once I withdraw my power, Gensokyo should return to normal."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >“What? ‘In my hands’...? What do you mean?”"
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "<l$> Something like imbuing a stone with the power of an incident",
+                "<l$> is far beyond my own abilities...”"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "This incident, the youkai of Gensokyo giving up change and losing their power,",
+                "and also her own efforts to save them: it was all a plan devised to save themselves."
+            ]
+        },
+        "43_0": {
+            "lines": [
+                "While it was hard to swallow in the moment, she was forced to accept it",
+                "when she saw the youkai in front of her knew everything."
+            ]
+        },
+        "45_0": {
+            "lines": [
+                "That one who used to live on the Moon, that one who’s always the mastermind in the shadows..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Could there be others?"
+            ]
+        },
+        "47_0": {
+            "lines": [
+                "Perhaps even Ariya was in on it too?"
+            ]
+        },
+        "48_0": {
+            "lines": [
+                "Furthermore, who created the Incident Stone? There weren’t enough answers to her questions."
+            ]
+        },
+        "49_0": {
+            "lines": [
+                "<c$Ending No.11 — A Desperate Gambit$>"
+            ]
+        }
+    }
+}

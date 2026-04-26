@@ -1,0 +1,223 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Ariya  $Marisa  $Chimi  >Deep below the Asama Purifying Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a grueling battle, Marisa Kirisame",
+                "defeated Ariya Iwanaga, the goddess of unchanging."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> However...”"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Ariya  >“A torrent of impurity from the Outside World will also rush in."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> What happens after that... is in your hands.”"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Ariya  >“Why don’t you witness for yourself how Gensokyo changes?”"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "Within the forest of the sanctuary."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "Not only is it known as a sanctuary, the forest also hides a pyramid within it."
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$Congratulations on your No Continue Clear!$>"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Chimi  >“...Hoh, so that pyramid was that sort of thing, eh?”"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >“Apparently, it’s a facility of the Lunar Capital.”"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Chimi  >“Now that you mention it, we've heard of Lunarians often around these parts."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> Come to think on it, this whole ‘sanctuary’ business might have been",
+                "<l$> to keep that lot of youkai from wandering in.”"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Chimi  >“Much obliged for coming all this way to tell me.”"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Marisa  >“I thought you might know something, since you said you’re old and all.”"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Chimi  >“That is true, we Houjuu have been around since before youkai were even a notion."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> We’re basically youkai before they had proper names.”"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Chimi  >“Here in this sanctuary, we’re able to remain unchanged."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> Lets us stay cut off from the Outside World."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$> Hearing you say it, I figure it’s that very altar,",
+                "<l$> the pyramid, that’s been making this place a sanctuary all along.”"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Marisa  >“Huh, you don’t say.”"
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Chimi  >“Well then, that altar’s still",
+                "<l$> something precious to us, make no mistake."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$> I figure the yamanba feel the same."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<l$> It doesn't matter if it’s some Lunar Capital contraption or not.”"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Marisa  >“By the way, do you know anything about the Dousojin on the altar?”"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Chimi  >“Hm? Dousojin on the altar...? Ah, now I remember!",
+                "<l$> I’m the one that made and put her there. Brings back memories, that does.”"
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Marisa  >“She has a will of her own now. Looked a bit lonely.”"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Chimi  >“A will of her own? Well now...”"
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<r$Chimi  >“Do an old lady a favor and play with her now and again, would you?"
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<l$> It isn’t right to leave a newborn god all alone like that.",
+                "<l$> Unlike us, she’s not alone by choice.”"
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<r$Marisa  >“Sure, sure. But man, her riddles were downright unreasonable.”"
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "The sanctuary, which was the epicenter of the incident, remained completely unchanged."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Or rather, its lack of change was exactly what defined this incident,",
+                "and the sanctuary was a place of little change to begin with."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "It’s safe to say that none of the dwellers of the sanctuary",
+                "were involved with the incident."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "The barrier placed around the sanctuary was likely Ariya’s doing."
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "<c$Ending No.12 — Dwellers of the Sanctuary$>"
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "After all, she had been able to enter it using the Incident Stone."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Ariya  >“That Incident Stone was certainly the real deal."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Thanks to you, I can take some time off work. I'm grateful.”"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >“Wait, return Gensokyo to normal first!”"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Ariya  >“You needn’t worry. Once I withdraw my power, Gensokyo should return to normal."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >“What? ‘In my hands’...? What do you mean?”"
+            ]
+        }
+    }
+}

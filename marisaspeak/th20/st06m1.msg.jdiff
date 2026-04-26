@@ -1,0 +1,215 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What's with this shrine gate?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It's way too ominous, ",
+                "I really don't feel like passing under it."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Although... the Incident Stone is giving a strong reaction."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "You, who have brought forth",
+                "the changing stone."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "I was expecting the arrival of",
+                "a savior such as yourself."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Now, come closer..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Huh?",
+                "Who're you?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I am Ariya Iwanaga.",
+                "Lord of the Asama Purifying Mountain."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "It was well worth sending out those stones of hostility."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Stones of hostility?",
+                "The ones with eyes and mouths?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "That's right. They guided you here."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Rough guidance, huh? Almost got me killed."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "If such stones would be enough to stop you, ",
+                "then you weren't meant to come this far."
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "But you <i$did> manage to reach this place."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Marisa Kirisame, magician of Gensokyo."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Oh, so you know about me?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Information from living things flows into this place."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "This Asama Purifying Mountain is a device ",
+                "that purifies and erases that living information."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Erasing living information?",
+                "You're saying... you plan to erase me?"
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Come now, surely you don't think such a ",
+                "large contraption is needed for that."
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "This place is a device to preserve",
+                "the Lunar Capital's eternity."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "It serves as the threshold that prevents ",
+                "impurity from reaching the Moon."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "I don't really get it, but if that's the case...",
+                "Then why did you guide me all the way here?"
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "To retaliate against the Lunarians'",
+                "careless actions."
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "Hmmm, so you mean..."
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "Allow me to explain things simply:",
+                "It was my power that stopped Gensokyo."
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "The power of perpetuity that",
+                "holds all in eternal stasis!"
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "If you wish to prevent Gensokyo",
+                "from becoming a second Lunar Capital,"
+            ]
+        },
+        "336_0": {
+            "lines": [
+                "then show me the power of the incident!",
+                "The power that transcends humanity!"
+            ]
+        }
+    },
+    "2": {
+        "30_0": {
+            "lines": [
+                "Do you see it too?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "The impurity is beginning to fill everything."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "It's dwindling away, you know.",
+                "That lifetime of yours..."
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "Unfortunately, your time's up.",
+                "Our little game ends here."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The sanctuary won't hold up",
+                "against any more impurity."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "With my power, I'll purify it all."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "From this point on lies a world of stasis,",
+                "where life itself is an anomaly."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Permanence shall be upon Gensokyo!"
+            ]
+        }
+    }
+}

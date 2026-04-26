@@ -1,0 +1,292 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Ariya  $Marisa  $Sanae  $Nareko  >Deep below the Asama Purifying Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a grueling battle, Marisa Kirisame",
+                "defeated Ariya Iwanaga, the goddess of unchanging."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> However...”"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Ariya  >“A torrent of impurity from the Outside World will also rush in."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> What happens after that... is in your hands.”"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Ariya  >“Why don’t you witness for yourself how Gensokyo changes?”"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "The pyramid in the sanctuary."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "It seems to be a facility of the Lunar Capital called “Asama Purifying Mountain.”"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "In fact, it was a shrine dedicated to the goddess of unchanging."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$Congratulations on your No Continue Clear!$>"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Ariya  >“That Incident Stone was certainly the real deal."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Thanks to you, I can take some time off work. I'm grateful.”"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >“Wait, return Gensokyo to normal first!”"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Ariya  >“You needn’t worry. Once I withdraw my power, Gensokyo should return to normal."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >“What? ‘In my hands’...? What do you mean?”"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Sanae  >”...Come on, let me pass through here, please.”"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Nareko  >“I’m telling you, it’s dangerous right now.”"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Marisa  >“What’s all this? What’s Sanae doing here?”"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Nareko  >“Oh, Miss Marisa! A little help here, please~”"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Sanae  >“Lady Kanako instructed me to investigate this place.”"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Nareko  >“This shrine maiden says she wants to enter the pyramid.”"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Marisa  >“So why not just let her in?”"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Nareko  >“Huh? But you’re the one who said this place was dangerous!”"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Marisa  >“That’s true, it was downright treacherous."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$> There is a psychedelic labyrinth, petrified thorns,",
+                "<l$> also the vacuum of space, that shrine of death..."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> But she’ll be fine, she’s strong too. Won’t die even if you killed her.”"
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Sanae  >“Ugh, I... I suddenly have a stomachache...”"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Marisa  >“But what’s the big idea of wanting to go in the pyramid, anyway?”"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Sanae  >“I’ve heard that, apparently, an old friend of Lady Kanako is imprisoned there.”"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Marisa  >“What? Old friend?”"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Sanae  >“Someone named Yuiman. Did you happen to meet her?”"
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Marisa  >“Yuiman? Ah, her... she was kind of...”"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Nareko  >“Kind of what?”"
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<r$Marisa  >“Well, she was so weird she couldn’t hold a conversation.",
+                "<l$> I’m a little worried I’d hit her head or something.”"
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<r$Sanae  >“According to Lady Kanako, she’s always been an eccentric one."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<l$> But I guess that confirms it’s really her!”"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<r$Sanae  >“‘Hallucination’... That word recently is being used in a new way."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<l$> ‘Misperceptions experienced by artificial intelligence,’ if I recall correctly.”"
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "<r$Marisa  >“Well, if that’s the case, then fine."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<l$> But ‘eccentric’ is putting it lightly. Most of what she said was just nonsense.",
+                "<l$> Even called me a ‘hallucination’ or something.”"
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<r$Marisa  >“Look at you, all knowledgeable.”"
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "<r$Sanae  >“Lately, there’s been a lot of information about the outside coming in.”"
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "<r$Marisa  >“Oh, so that was the root of the whole incident.”"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<r$Sanae  >“Uh, incident? What are you talking about?”"
+            ]
+        },
+        "43_0": {
+            "lines": [
+                "<r$Marisa  >“You know about hallucinations, but you didn’t notice <i$that>?”"
+            ]
+        },
+        "44_0": {
+            "lines": [
+                "<r$Marisa  >“Until just recently, Gensokyo was at a standstill. You included.”"
+            ]
+        },
+        "45_0": {
+            "lines": [
+                "<r$Sanae  >“Wh-whaaat!?”"
+            ]
+        },
+        "45_1": {
+            "lines": [
+                "<r$Nareko  >“Wh-whaaat!?”"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<r$Marisa  >“Nareko, you already knew this!”"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "<c$Ending No.16 — Anything Goes in Gensokyo$>"
+            ]
+        },
+        "47_0": {
+            "lines": [
+                "It was strange. If she hasn’t noticed the incident,",
+                "then why didn’t she find the pyramid itself an odd thing?"
+            ]
+        },
+        "48_0": {
+            "lines": [
+                "This wasn’t a simple matter of time being stopped."
+            ]
+        },
+        "49_0": {
+            "lines": [
+                "It was more like, it made her very heart start rejecting change."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "In the end, whether from fear or prudence, Sanae declared she would",
+                "better prepare herself before going inside, and took her leave."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "However, Yuiman being an old friend of Kanako must be some twist of fate."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "The thought of that oddball princess arriving on the surface sent a cold trickle down her spine.",
+                "Was Marisa ready to accept a change like that?"
+            ]
+        }
+    }
+}

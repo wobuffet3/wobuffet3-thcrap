@@ -1,0 +1,216 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Ariya  $Marisa  $Enoko  >Deep below the Asama Purifying Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a grueling battle, Marisa Kirisame",
+                "defeated Ariya Iwanaga, the goddess of unchanging."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> However...”"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Ariya  >“A torrent of impurity from the Outside World will also rush in."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> What happens after that... is in your hands.”"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Ariya  >“Why don’t you witness for yourself how Gensokyo changes?”"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "The Forest of Magic."
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$Congratulations on your No Continue Clear!$>"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Ariya  >“That Incident Stone was certainly the real deal."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Thanks to you, I can take some time off work. I'm grateful.”"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >“Wait, return Gensokyo to normal first!”"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Ariya  >“You needn’t worry. Once I withdraw my power, Gensokyo should return to normal."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >“What? ‘In my hands’...? What do you mean?”"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "A deep, dark forest where all manner of evil spirits creep ever closer."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Enoko  >“Heey, Marisa! What’s with that stone?”"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >“This here? It’s called an Incident Stone. For some weird reason,",
+                "<l$> it’s loaded with an incident’s power.”"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Enoko  >“Incident’s power? What’s that?”"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Marisa  >“An incident is an incident, it’s when things aren’t normal.”"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Enoko  >“That’s not much of an explanation.",
+                "<l$> But hey, this Incident Stone... it feels like that person.”"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Marisa  >“Spot on, that’s one sharp nose."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> It’s the magic aura of that oni from Hell, Zanmu.”"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Enoko  >“Should you really be carrying around something so eerie?”"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Marisa  >“Strangely enough, thanks to this Incident Stone,",
+                "<l$> I was able to resolve the incident this time around.”"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Enoko  >“So you were dancing in the palm of her hand again, were you?”"
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Marisa  >“No clue, it was one odd incident though.”"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Marisa  >“You didn’t even notice it either, right? The incident in Gensokyo.”"
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Enoko  >“Well, you see, I haven’t left the forest."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$> But it did feel oddly boring.”"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Marisa  >“That’s it, the boredom. That’s what this incident was.”"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Enoko  >“The boredom was the incident? You sure it’s not all in your head?”"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Marisa  >“Don’t be stupid, has Gensokyo ever been boring?"
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<l$> Sure, for an hour or two it happens, but I’d die of boredom if it lasted for days."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<l$> That deadly kind of boredom is what happened.”"
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "When Enoko, who had been feeling bored, came over to talk, Marisa’s interest piqued."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "She felt that Gensokyo is starting to move again."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "She couldn’t yet sense any major changes of the sort Ariya had spoken of..."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Or rather, did returning to how things were before itself count as a change?"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Even if an immense amount of impurity flowed in from the Outside World,",
+                "Gensokyo would probably be fine."
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "That’s because it’s Gensokyo’s nature to simply accept such things."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "However, if it ever starts to reject change,",
+                "perhaps that will be the moment when Gensokyo will truly die."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<c$Ending No.15 — Boredom is a Creeping Death$>"
+            ]
+        }
+    }
+}

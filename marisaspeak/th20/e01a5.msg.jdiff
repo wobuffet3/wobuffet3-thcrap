@@ -1,0 +1,298 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Ariya  $Marisa  $Eirin  >Deep below the Asama Purifying Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a grueling battle, Marisa Kirisame",
+                "defeated Ariya Iwanaga, the goddess of unchanging."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> However...”"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Ariya  >“A torrent of impurity from the Outside World will also rush in."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> What happens after that... is in your hands.”"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Ariya  >“Why don’t you witness for yourself how Gensokyo changes?”"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "Eientei."
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<r$Marisa  >“...”"
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$Congratulations on your No Continue Clear!$>"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "A house hidden in the Bamboo Forest of the Lost, where the Lunarians dwell."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Marisa  >“Hey, you’re the one who made this Incident Stone, aren’t you?”"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Eirin  >“How did you reach that conclusion?”"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Marisa  >“I ran into a Lunarian while resolving the incident."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> Plus, this stone is practically leaking the same energy from the Eternal Night Incident.”"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Marisa  >“You’ve dragged me into another one of your Lunarian squabbles, haven’t you?"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$> Just like with the Ultramarine Orb Elixir back then.”"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Eirin  >“Yes, you are correct in that I’ve ‘dragged you in.’”"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Eirin  >“However, it was not me the one who fashioned that stone."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$> It was a god who is skilled at creating jewels.”"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Marisa  >“A god who is skilled at creating jewels... Hm, who was that again?”"
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Eirin  >“I merely came up with the plan to save Gensokyo and",
+                "<l$> mediated between the Lunar Capital and Gensokyo.”"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Marisa  >“Well, whoever actually made the stone doesn’t really matter."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> More importantly, from the sound of it, you knew about this incident right from the start?”"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Eirin  >“Yes, the cause of the incident this time was an attack from the Outside World."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<l$> At that rate, whatever happened to Gensokyo, the Lunar Capital wouldn’t survive."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$> Time was of the essence.”"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Marisa  >“Wait, an attack from outside?”"
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Eirin  >“Most likely it was not intentional."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<l$> However, the impurity coming from outside had reached a level",
+                "<l$> not even Gensokyo could hold."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<l$> If things continued that way, the Lunar Capital would have collapsed.”"
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<r$Marisa  >“So what if it collapses, was there any danger to Gensokyo?”"
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<r$Eirin  >“That is difficult to say."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "<l$> Although Gensokyo is already full of impurity, who knows what might",
+                "<l$> happen if that levee had broken."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<l$> In any case, the plan was to borrow the power of the Stone Princess for the Lunar Capital. ",
+                "<l$> That one you defeated, Ariya Iwanaga.”"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<l$> Her power is so immense, it stops not only the impurity coming from outside,",
+                "<l$> but also all of Gensokyo along with it.”"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<r$Eirin  >“However, that plan also involved Gensokyo."
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "<r$Eirin  >“So I entrusted Gensokyo to someone else."
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "<l$> To a human who had experienced incidents all across the land."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<l$> I believed that such human could evade the effects of stagnation, reach Ariya, and...",
+                "<l$> moderate her appropriately.”"
+            ]
+        },
+        "43_0": {
+            "lines": [
+                "<r$Marisa  >“And that human... that was me?”"
+            ]
+        },
+        "44_0": {
+            "lines": [
+                "<r$Eirin  >“Yes, you."
+            ]
+        },
+        "45_0": {
+            "lines": [
+                "<l$> I was confident you would succeed."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<l$> Thank you, Marisa Kirisame, the extraordinary magician.”"
+            ]
+        },
+        "47_0": {
+            "lines": [
+                "<r$Marisa  >“Heh, w-well, it was nothing, really. A piece of cake."
+            ]
+        },
+        "48_0": {
+            "lines": [
+                "<l$> You can count on me if you’re ever in trouble again.”"
+            ]
+        },
+        "49_0": {
+            "lines": [
+                "She didn’t fully understand everything, but being thanked doesn’t feel half bad."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Ariya  >“That Incident Stone was certainly the real deal."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Thanks to you, I can take some time off work. I'm grateful.”"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >“Wait, return Gensokyo to normal first!”"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Ariya  >“You needn’t worry. Once I withdraw my power, Gensokyo should return to normal."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >“What? ‘In my hands’...? What do you mean?”"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "It’s all the more satisfying when it comes from someone who’s usually such a stuck-up."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "However, she wondered why Eirin hadn’t tried to resolve the incident herself."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "But as she thought back on it, she realized the incident itself",
+                "had been part of Eirin’s plan."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Realizing that, Marisa couldn't help but feel angry."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Humans and Lunarians just don’t go together."
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "<c$Ending No.14 — So, Was the Lunar Capital Saved?$>"
+            ]
+        }
+    }
+}

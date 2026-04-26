@@ -1,0 +1,252 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Ariya  $Marisa  $Patchouli  >Deep below the Asama Purifying Mountain."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After a grueling battle, Marisa Kirisame",
+                "defeated Ariya Iwanaga, the goddess of unchanging."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Ariya  >“That Incident Stone was certainly the real deal."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> Thanks to you, I can take some time off work. I'm grateful.”"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >“Wait, return Gensokyo to normal first!”"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Ariya  >“You needn’t worry. Once I withdraw my power, Gensokyo should return to normal."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> However...”"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Ariya  >“A torrent of impurity from the Outside World will also rush in."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> What happens after that... is in your hands.”"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >“What? ‘In my hands’...? What do you mean?”"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Ariya  >“Why don’t you witness for yourself how Gensokyo changes?”"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "The Scarlet Devil Mansion."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "A vampire’s mansion standing closely by the lakeside."
+            ]
+        },
+        "47_0": {
+            "lines": [
+                "<c$Congratulations!$>",
+                "<c$Congratulations on your No Continue Clear!$>"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Patchouli  >“...Indeed, that Incident Stone carries the young mistress' power within itself.”"
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >“See? Told you.”"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Patchouli  >“However, I’ve never heard of her creating anything like this.”"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Marisa  >“Isn't that like, a huge deal?”"
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Patchouli  >“Indeed it is.”"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Marisa  >“Somebody stole her magic power, that’s straight-up copyright violation!”"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Patchouli  >“No, that’s not the actual problem.”"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Marisa  >“Huh...?”"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Patchouli  >“Its existence means that something serious enough",
+                "<l$> to require this incident’s power is going to happen.”"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Marisa  >“Oh, err...”"
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Marisa  >“Actually, it <i$already> happened. That stone’s what let me resolve it.”"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Patchouli  >“……"
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> There you go again, always joking and fibbing.”"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Marisa  >“I’m dead serious! Thing is, I still don’t know ",
+                "<l$> where the stone came from, that’s why I came here.”"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Patchouli  >“...Is that so? Why didn’t I notice the incident myself then?”"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<r$Marisa  >“You see, that <i$was> the essence of the incident!"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<l$> It was an incident where change itself was unable to happen.",
+                "<l$> You could even say not realizing an incident was happening was the incident itself.”"
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<r$Patchouli  >“I see, so there’s only one purpose for the Incident Stone.”"
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<r$Marisa  >“Oh, yeah?”"
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<r$Patchouli  >“It was created to save Gensokyo.",
+                "<l$> Therefore, its creator must be an ally to Gensokyo."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "<l$> A simple conclusion.”"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<r$Marisa  >“I-Is that so?”"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Marisa  >“Well, whatever you wanna call it, it was real.",
+                "<l$> And I only caught on thanks to this Incident Stone.”"
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Patchouli  >“Could such a hallucination-like incident really happen?”"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<r$Patchouli  >“May I hold onto that stone? I’d like to study it.”"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<r$Marisa  >“As if! I’ll be doing the studying.”"
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "Marisa shared a small piece of the Incident Stone with Patchouli,",
+                "and the two decided to investigate them together."
+            ]
+        },
+        "40_0": {
+            "lines": [
+                "Studying the unknown is the favorite pastime of a magician."
+            ]
+        },
+        "41_0": {
+            "lines": [
+                "That’s because they believe that a new future awaits within it."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It doesn’t look like much has changed in Gensokyo."
+            ]
+        },
+        "43_0": {
+            "lines": [
+                "Rather, Gensokyo returned to its usual self: a place that doesn't reject change."
+            ]
+        },
+        "44_0": {
+            "lines": [
+                "Ariya said that from here on, Gensokyo would change."
+            ]
+        },
+        "45_0": {
+            "lines": [
+                "That meant nothing more than Gensokyo returning to how it always had been."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<c$Ending No.09 — The Pride of Magicians$>"
+            ]
+        }
+    }
+}
